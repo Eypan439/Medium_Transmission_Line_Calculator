@@ -1,4 +1,3 @@
-```matlab
 classdef Medium_Transmission_Line_Calculator < matlab.apps.AppBase
 
     % Properties that correspond to app components
@@ -386,5 +385,3 @@ quiver(app.UIAxes, end_shunt(1), end_shunt(2), ...
         end
     end
 end
-
-```
