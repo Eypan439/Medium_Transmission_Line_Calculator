@@ -2,6 +2,8 @@
 
 This MATLAB App Designer project provides a graphical user interface (GUI) to calculate various parameters of medium transmission lines using both T-model and Π-model. It also draws phasor diagrams and generates a comparative table of results.
 
+![App Screenshot](https://raw.githubusercontent.com/Eypan439/Medium_Transmission_Line_Calculator/refs/heads/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-13%20231212.png)
+
 ## Features
 - **Graphical User Interface (GUI)**:
   - Input fields for transmission line parameters.
